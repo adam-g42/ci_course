@@ -1,6 +1,6 @@
 # OxRSE Continuous Integration course
 
-This repository contains a small Python package for summarising experimental measurements.
+This repository contains a small Python package for summarising experimental measurements..
 Over the course you will use free cloud services to automate:
 
 - unit testing on multiple Python versions
