@@ -23,7 +23,7 @@ def summarise(values):
 
     if present.size == 0:
         return {"n": 0, "mean": float("nan"), "sd": float("nan"),
-                "min": float("nan"), "max": float("nan")}   
+                "min": float("nan"), "max": float("nan")}
 
     if present.size == 1:
         sd = 0.0
