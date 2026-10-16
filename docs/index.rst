@@ -6,13 +6,17 @@
 ci_course_docs documentation
 ============================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+``ci_course`` is a small Python package for summarising experimental
+measurements. It reads a CSV file of measurements, works out summary
+statistics for each column, and writes them to a report.
+
+New here? Start with :doc:`install`, then follow the :doc:`quickstart`.
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   install
+   quickstart
    reference
